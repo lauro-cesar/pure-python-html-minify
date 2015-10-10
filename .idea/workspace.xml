@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f8953e1-800d-417c-968b-34f2f4d625ea" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/pure-python-html-minify.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyminify/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyminify/minify.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/other.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/testrunner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
     </list>
     <ignored path="pure-python-html-minify.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -47,14 +35,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="minify.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="minify.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pyminify/minify.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="24" selection-start="218" selection-end="218" vertical-scroll-proportion="0.2102102">
+            <state line="14" column="24" selection-start="218" selection-end="218" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="e#164#180#0" expanded="true" />
                 <element signature="e#202#218#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="7" selection-start="7" selection-end="7" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -79,6 +76,7 @@
       <list>
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/pyminify/minify.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -305,11 +303,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pyminify/minify.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="24" selection-start="218" selection-end="218" vertical-scroll-proportion="0.2102102">
+        <state line="14" column="24" selection-start="218" selection-end="218" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="e#164#180#0" expanded="true" />
             <element signature="e#202#218#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="7" selection-start="7" selection-end="7" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
